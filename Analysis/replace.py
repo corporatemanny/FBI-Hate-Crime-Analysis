@@ -88,7 +88,7 @@ def desc_count(arr):
                 tally['Disablity'] += 1
             elif category in gender:
                 tally['Gender'] += 1
-            elif category in unknown:
+            else:
                 tally['Unknown'] += 1
     
     return tally
