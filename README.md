@@ -26,7 +26,7 @@ Then categorize hate crime descriptions into broader categories.
 
 5. Visualization - Filled Bar Plot (Over Time): Produces a filled bar plot illustrating the percentage of each category over the years.
 
-6. Yearly Hate Crime Activity Line Plots: Displays line plots depicting hate crime activity for specific years (1992, 1996, 2001).
+6. Visualization - Yearly Hate Crime Activity Line Plots: Displays line plots depicting hate crime activity for specific years (1992, 1996, 2001).
 
 7. Chi-Square Test: Perform a Chi-Square test to assess the significance of hate crime percentage changes before and after 9/11 for each category.
 
