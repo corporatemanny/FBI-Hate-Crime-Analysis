@@ -28,7 +28,7 @@ Categorizes hate crime descriptions into broader categories.
 
 6. Chi-Square Test: Conducts a Chi-Square test to assess the significance of hate crime percentage changes before and after 9/11 for each category.
 
-Results Summary: Prints Chi-Square values and p-values for each hate crime category.
+7. Results Summary: Prints Chi-Square values and p-values for each hate crime category.
 
 ## Figures
 The script generates visualizations in the 'Analysis' folder:
