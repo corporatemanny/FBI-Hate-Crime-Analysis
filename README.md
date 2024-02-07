@@ -18,7 +18,7 @@ The scope of research involves a comprehensive analysis of hate crime data, with
 1. Data Loading and Initial Exploration: Reads the hate crime dataset using Pandas. Selects relevant columns for analysis.
 
 2. Data Preprocessing: Splits entries in the 'bias_desc' column into individual categories.
-Categorizes hate crime descriptions into broader categories.
+Then categorize hate crime descriptions into broader categories.
 
 3. Visualization - Scatter Line Plot:Creates a scatter line plot representing the count and years of each hate crime category.
 
@@ -31,7 +31,7 @@ Categorizes hate crime descriptions into broader categories.
 7. Results Summary: Prints Chi-Square values and p-values for each hate crime category.
 
 ## Figures
-The script generates visualizations in the 'Analysis' folder:
+The script generates visualization pictures in the 'Analysis' folder:
 
 'Hate Crime Categories Over 31 Years (1991-2022).png'
 'Bar Plot- Hate Crime Categories Over Time.png'
