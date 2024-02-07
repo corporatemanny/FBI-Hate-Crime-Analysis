@@ -7,11 +7,11 @@ Rossie Jimenez, Emanuel Diaz-Berrios and Steven Carrasquillo-Merly
 The scope of research involves a comprehensive analysis of hate crime data, with a specific focus on changes in hate crime categories before and after 9/11, using statistical methods to discern meaningful patterns and trends.
 
 ## Dependencies
-pandas
-pathlib
-numpy
-matplotlib
-scipy
+1. Pandas
+2. Pathlib
+3. Numpy
+4. Matplotlib
+5. Scipy
 
 ## Code Stucture
 
